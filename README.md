@@ -30,7 +30,7 @@ Bit-Plane-Slicing/
 └── README.md
 ```
 
-## ⚙️ How It Works
+##  How It Works
 
 1. The image `nature.jpg` is loaded in grayscale.
 2. The program checks whether the image was loaded successfully.
@@ -45,7 +45,7 @@ extracts the **i-th bit** from every pixel.
 5. The extracted values (`0` and `1`) are multiplied by `255` to make them visible as black and white.
 6. The original image and all eight bit planes are displayed using Matplotlib.
 
-## 🖼️ Output
+##  Output
 
 The output displays **9 images**:
 
